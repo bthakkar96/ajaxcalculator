@@ -1,6 +1,6 @@
 <?php
 
-namespace Ajaxphtml\Controllerphtml\Model\ResourceModel\Blog;
+namespace Ajaxphtml\Controllerphtml\Model\ResourceModel\Controllerphtml;
 
 use Magento\Framework\Model\ResourceModel\Db\Collection\AbstractCollection;
 
